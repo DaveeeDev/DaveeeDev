@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DaveeeDev
 - 👀 I’m interested in Developing Games
-- 🌱 I’m currently improving my Python skills
-- 📫 How to reach me: Discord: Daveee#4083
+- 🌱 I’m currently improving my Python, Java and JavaScript skills
+- 📫 How to reach me: Discord: @daveee0815
